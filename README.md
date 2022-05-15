@@ -1,5 +1,4 @@
-# gonzalochimal.github.io
-Challenge 01 - Encriptador
+# Challenge 01 - Encriptador
 
 Encriptador y Desencriptador que sigue las siguientes reglas:
 * "a" debe ser convertida en "ai"
