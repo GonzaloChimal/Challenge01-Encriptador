@@ -18,7 +18,7 @@ Una vez desarrollado todo debemos desencriptar el mensaje que nos proporcionó A
 
 fenterlimescimesdaidenters poberr enternfrenterntair enterstenter dentersaifimesober y haibenterrlober cobernclufatimesdober cobern enterximestober
 
--
+#
 
 
 **Encryptor and Decryptor that follows the following rules:**
@@ -31,3 +31,4 @@ fenterlimescimesdaidenters poberr enternfrenterntair enterstenter dentersaifimes
 **NOTE: Special characters, capital letters and letters with accents are not accepted.**
 
 Once everything has been developed, we must decrypt the message that Alura LATAM provided us:
+fenterlimescimesdaidenters poberr enternfrenterntair enterstenter dentersaifimesober y haibenterrlober cobernclufatimesdober cobern enterximestober
