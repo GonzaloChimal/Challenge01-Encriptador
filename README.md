@@ -18,7 +18,7 @@ Una vez desarrollado todo debemos desencriptar el mensaje que nos proporcionó A
 
 fenterlimescimesdaidenters poberr enternfrenterntair enterstenter dentersaifimesober y haibenterrlober cobernclufatimesdober cobern enterximestober
 
-\n\n\n
+-
 
 
 **Encryptor and Decryptor that follows the following rules:**
