@@ -3,8 +3,7 @@
 
 ![172750044-77335872-230f-450d-8bd2-c2fb941cde95](https://user-images.githubusercontent.com/27865066/175985274-df073015-aa56-4f8c-a851-2f1e4a4f9889.png)
 
-
-
+#
 **Encriptador y Desencriptador que sigue las siguientes reglas:**
 - "a" debe ser convertida en "ai"
 - "e" debe ser convertida en "enter"
@@ -19,8 +18,6 @@ Una vez desarrollado todo debemos desencriptar el mensaje que nos proporcionó A
 fenterlimescimesdaidenters poberr enternfrenterntair enterstenter dentersaifimesober y haibenterrlober cobernclufatimesdober cobern enterximestober
 
 #
-
-
 **Encryptor and Decryptor that follows the following rules:**
 - "a" must be converted to "ai"
 - "e" must be converted to "enter"
